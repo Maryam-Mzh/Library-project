@@ -25,7 +25,7 @@ Includes a `Library` class with the following methods:
   pip install .
 
 
-  ## 👤 Author
+### 👤 Author
 - **Maryam Mohammadzadeh**
 - GitHub: [@Maryam-Mzh](https://github.com/Maryam-Mzh)
 - LinkedIn: [Maryam Mohammadzadeh](https://www.linkedin.com/in/maryam-mz)
